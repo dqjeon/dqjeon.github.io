@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/옵시디언 지킬 디지털 가든을 이용한 웹 퍼블리싱에서 Facebook 댓글 달기.md",
+            "file": "content/_index.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "end raw",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/옵시디언 지킬 디지털 가든을 이용한 웹 퍼블리싱에서 Facebook 댓글 달기.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +87,8 @@
   },
   "active": "2516d6d8732d63bc",
   "lastOpenFiles": [
-    "content/notes/옵시디언 지킬 디지털 가든을 이용한 웹 퍼블리싱에서 Facebook 댓글 달기.md",
     "content/_index.md",
+    "content/notes/옵시디언 지킬 디지털 가든을 이용한 웹 퍼블리싱에서 Facebook 댓글 달기.md",
     "content/notes/옵시디언 지킬 디지털 가든을 이용한 웹 퍼블리싱에서 Disqus 댓글 달기.md",
     "content/notes/다공바인더 제품 관련 정리.md",
     "content/notes/옵시디언 관련 글 모음.md",
