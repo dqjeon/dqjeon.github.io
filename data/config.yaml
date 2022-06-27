@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: DQ_Jeon
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -8,12 +8,11 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  DQ의 정원입니다.
 page_title:
-  "🪴 Quartz 3.2"
+  "DQ's garden"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/dq_jeon
+  - link_name: Facebook
+    link: https://www.facebook.com/deokkyu
