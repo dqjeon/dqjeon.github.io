@@ -1,7 +1,7 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "content/notes",
-  "attachmentFolderPath": "content/notes/images",
+  "newFileFolderPath": "content/",
+  "attachmentFolderPath": "content/images",
   "promptDelete": false,
   "alwaysUpdateLinks": true
 }
