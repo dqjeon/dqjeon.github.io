@@ -1,7 +1,8 @@
 ---
-title: "Welcome"
+title: "DQ's garden"
 ---
 
+# Welcome
 안녕하세요. DQ_Jeon의 정원입니다.
 
 내용을 차차 늘려가도록 하겠습니다.
