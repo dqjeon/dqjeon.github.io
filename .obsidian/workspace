@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/20220621205148041.md",
+            "file": "content/_index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/20220621205148041.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2516d6d8732d63bc",
   "lastOpenFiles": [
-    "content/notes/20220621205148041.md",
     "content/_index.md",
-    "content/notes/preview changes.md",
-    "content/notes/setup.md",
-    "content/notes/philosophy.md",
-    "content/notes/obsidian.md",
-    "content/notes/ignore notes.md",
-    "content/notes/editing.md",
-    "content/notes/custom Domain.md",
-    "content/notes/config.md"
+    "content/templates/post.md",
+    "content/private/private-note.md",
+    "content/notes/20220612001022872.md",
+    "content/notes/20220621094316604.md",
+    "content/notes/20220621205000474.md",
+    "content/notes/20220621234724709.md",
+    "content/notes/20220622005115685.md",
+    "content/notes/20220621205148041.md",
+    "content/notes/preview changes.md"
   ]
 }
