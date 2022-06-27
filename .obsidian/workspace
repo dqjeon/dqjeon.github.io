@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/notes/20220621205000474.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/20220621205000474.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "2516d6d8732d63bc",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/notes/20220612001022872.md",
-    "content/notes/20220616005751843.md",
+    "content/notes/20220621205000474.md",
     "content/notes/20220621094316604.md",
+    "content/notes/20220616005751843.md",
+    "content/notes/20220612001022872.md",
+    "content/_index.md",
     "content/notes/images/Pasted image 20220616010159.png",
     "content/notes/images/Pasted image 20220616010029.png",
     "content/notes/images/image.jpg",
     "content/notes/20220621205148041.md",
-    "content/templates/post.md",
-    "content/notes/20220621205000474.md"
+    "content/templates/post.md"
   ]
 }
