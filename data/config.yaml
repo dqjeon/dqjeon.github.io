@@ -1,6 +1,6 @@
 name: DQ_Jeon
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableSPA: true
