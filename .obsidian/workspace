@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "7b2ad1c8f8248da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2516d6d8732d63bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/notes/20220621205148041.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c92bfedc88eb3c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9154265e8a5b5b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de247838a4478e22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d855cf5c80ca498",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c8b437924119409",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe7e9e0bf8a509d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "248864206bb5fad1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/notes/20220621205148041.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2516d6d8732d63bc",
+  "lastOpenFiles": [
+    "content/notes/20220621205148041.md",
+    "content/_index.md",
+    "content/notes/preview changes.md",
+    "content/notes/setup.md",
+    "content/notes/philosophy.md",
+    "content/notes/obsidian.md",
+    "content/notes/ignore notes.md",
+    "content/notes/editing.md",
+    "content/notes/custom Domain.md",
+    "content/notes/config.md"
+  ]
+}
