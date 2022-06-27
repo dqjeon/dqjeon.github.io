@@ -23,13 +23,13 @@ FACEBOOK 에서는 댓글 플러그인을 제공한다. 다양한 댓글 서비�
 가령 `_note` 레이아웃에서만 댓글을 사용하겠다 할 경우. 댓글을 달고자 하는 위치에 코드를 추가한다. 이 페이지의 경우에는 아래와 같이 추가할 수 있다.
 
 ```
-{% raw %}{% if page.comments %}
+{% if page.comments %}
 <div    class="fb-comments" 
         data-href="https://dqj.netlify.app{{ site.url | append: page.url }}"
         data-width="100%" 
         data-numposts="5">
 </div>
-{% endif %}{% endraw %}
+{% endif %}
 ```
 
 ## 개별 포스팅 프론트매터 추가
