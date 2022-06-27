@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/20220621205000474.md",
+            "file": "content/_index.md",
             "mode": "source"
           }
         }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "qua",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/20220621205000474.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "2516d6d8732d63bc",
   "lastOpenFiles": [
-    "content/notes/20220621205000474.md",
-    "content/notes/20220621094316604.md",
-    "content/notes/20220616005751843.md",
-    "content/notes/20220612001022872.md",
     "content/_index.md",
-    "content/notes/images/Pasted image 20220616010159.png",
-    "content/notes/images/Pasted image 20220616010029.png",
-    "content/notes/images/image.jpg",
-    "content/notes/20220621205148041.md",
-    "content/templates/post.md"
+    "content/notes/옵시디언 지킬 디지털 가든을 이용한 웹 퍼블리싱에서 Facebook 댓글 달기.md",
+    "content/notes/옵시디언 지킬 디지털 가든을 이용한 웹 퍼블리싱에서 Disqus 댓글 달기.md",
+    "content/notes/다공바인더 제품 관련 정리.md",
+    "content/notes/옵시디언 관련 글 모음.md",
+    "content/notes/나의 기록 관리법(txt 버전).md",
+    "content/notes/GoogleAnalytics 적용하기.md",
+    "content/notes/obsidian으로 묶어놓은 글 netlify에 publish 하기.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md"
   ]
 }
