@@ -8,11 +8,11 @@ FACEBOOK 에서는 댓글 플러그인을 제공한다. 다양한 댓글 서비�
 먼저 [facebook 댓글 플러그인](https://developers.facebook.com/docs/plugins/comments) 에 들어가서 코드를 생성한다.
 
 
-![[Pasted image 20220616010029.png]]
+![[images/Pasted image 20220616010029.png]]
 
 댓글을 남길 URL을 입력하고, 코드받기를 실행한다.
 
-![[Pasted image 20220616010159.png]]
+![[images/Pasted image 20220616010159.png]]
 
 ## default.html 수정
 `_layouts` 아래 `default.html`을 수정한다. 
