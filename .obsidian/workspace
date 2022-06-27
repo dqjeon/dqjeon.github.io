@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/test.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "2516d6d8732d63bc",
   "lastOpenFiles": [
+    "content/test.md",
     "content/_index.md",
+    "content/private/private-note.md",
+    "content/templates/post.md",
     "content/notes/옵시디언 관련 글 모음.md",
     "content/notes/다공바인더 제품 관련 정리.md",
     "content/notes/나의 기록 관리법(txt 버전).md",
     "content/notes/옵시디언 지킬 디지털 가든을 이용한 웹 퍼블리싱에서 Facebook 댓글 달기.md",
     "content/notes/옵시디언 지킬 디지털 가든을 이용한 웹 퍼블리싱에서 Disqus 댓글 달기.md",
-    "content/notes/GoogleAnalytics 적용하기.md",
-    "content/notes/obsidian으로 묶어놓은 글 netlify에 publish 하기.md",
-    "CODE_OF_CONDUCT.md",
-    "README.md"
+    "content/notes/GoogleAnalytics 적용하기.md"
   ]
 }
