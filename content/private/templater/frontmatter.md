@@ -1,6 +1,4 @@
 ---
 title: 
 alias: 
-tags:
-	- 
 ---
