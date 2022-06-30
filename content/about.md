@@ -8,7 +8,7 @@ enableToc: false
 - [Facebook](https://www.facebook.com/deokkyu)
 - [Instagram](https://www.instagram.com/dq_jeon/)
 # E-mail : 
-- dq.jeon@gmail.com
+- <dq.jeon@gmail.com>
 
 # Messenger
 - [Kakao talk](http://qr.kakao.com/talk/S97BYBSMpYyLEU6GRq7qTiIyOSM-)
