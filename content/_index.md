@@ -1,6 +1,7 @@
 ---
 title: "DQ's garden"
 alias: "home"
+enableToc: true
 ---
 
 # Welcome
