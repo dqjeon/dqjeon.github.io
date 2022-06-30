@@ -12,7 +12,5 @@ description:
 page_title:
   "DQ's garden"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/dq_jeon
-  - link_name: Facebook
-    link: https://www.facebook.com/deokkyu
+  - link_name: About
+    link: https://dqjeon.github.io/about
