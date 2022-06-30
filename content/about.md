@@ -7,7 +7,7 @@ enableToc: false
 - [Twitter](https://twitter.com/dq_jeon)
 - [Facebook](https://www.facebook.com/deokkyu)
 - [Instagram](https://www.instagram.com/dq_jeon/)
-# E-mail : 
+# E-mail
 - {{< raw >}}<a href="mailto:dq.jeon@gmail.com">dq.jeon@gmail.com</a>{{< /raw >}}
 
 # Messenger
