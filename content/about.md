@@ -4,6 +4,9 @@ alias: "About"
 enableToc: false
 ---
 ![[media/Pasted image 20220702120408.png]]
+
+전덕규의 github 입니다.
+
 # SNS
 - [Twitter](https://twitter.com/dq_jeon)
 - [Facebook](https://www.facebook.com/deokkyu)
