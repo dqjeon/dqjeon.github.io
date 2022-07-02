@@ -3,7 +3,7 @@ title: "About"
 alias: "About"
 enableToc: false
 ---
-![[media/Pasted image 20220702120408.png]]
+![[media/Pasted image 20220702120408.png|300]]
 
 전덕규의 github page 입니다.
 
