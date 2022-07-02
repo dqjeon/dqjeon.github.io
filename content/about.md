@@ -3,6 +3,7 @@ title: "About"
 alias: "About"
 enableToc: false
 ---
+![[media/Pasted image 20220702120408.png]]
 # SNS
 - [Twitter](https://twitter.com/dq_jeon)
 - [Facebook](https://www.facebook.com/deokkyu)
